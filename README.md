@@ -29,4 +29,5 @@ https://youtu.be/2zfmCYcIGRI
 <img src="/images/sample4.png"/>
 
 <h2>Quality</h2>
+GLIDE reduces quality.That must be the reson that GPU and CPU are less used in context of Glide
 <img src="/images/sample7.png"/>
