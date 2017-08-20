@@ -5,6 +5,10 @@ Yet Glide seems to be more versatile.
 Matter is library size and Quality. 
 But performance is too good in android minitor
 
+
+<h2>Youtube</h2>
+https://youtu.be/2zfmCYcIGRI
+
 <h2>Stats</h2>
 <img src="/images/sample1.png"/>
 
@@ -21,6 +25,3 @@ But performance is too good in android minitor
 
 <h2>Quality</h2>
 <img src="/images/sample7.png"/>
-
-<h2>Youtube</h2>
-https://youtu.be/2zfmCYcIGRI
